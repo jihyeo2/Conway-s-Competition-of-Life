@@ -38,7 +38,7 @@ To play, test, or develop locally:
     * TODO make GitHub release and put instructions for downloading the release.
 * By cloning from GitHub (requires git):
     * In a terminal, clone the GitHub repository.
-        * `git clone https://github.com/wooandrew/CS3300CGOL.git`
+        * `git clone https://github.com/jihyeo2/Conway-s-Competition-of-Life.git`
 
 ### Build and Installation Instructions
 
